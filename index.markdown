@@ -16,6 +16,8 @@ This text is **bold**. This text is *italics*. This is both ___bold and italics_
 
 ![Smurf Insults](smurfinsults.png)
 
+<img src="smurfinsults.png" width="200">
+
 CMD + SHIFT + V to preview markdown in VSCode.
 
 ## Contact Me
