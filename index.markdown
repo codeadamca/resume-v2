@@ -15,3 +15,5 @@ This text is **bold**. This text is *italics*. This is both ___bold and italics_
 ## Projects
 
 ## Contact Me
+
+[Visit me on LinkedIn](https://www.linkedin.com/in/adambenjaminthomas/)
