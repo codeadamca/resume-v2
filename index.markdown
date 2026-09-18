@@ -8,6 +8,8 @@ This text is **bold**. This text is *italics*. This is both ___bold and italics_
 
 ## Education
 
+<blockquote>Testing blockquote...</blockquote>
+
 ## Employment
 
 ## Projects
