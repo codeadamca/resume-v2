@@ -16,6 +16,6 @@ Adding some content...
 
 ## Projects
 
-[Smurf Insult Generator](![Smurf Insult Generator](smurfinsults.png))
+[![Smurf Insult Generator](smurfinsults.png)](https://pages.codeadam.ca/smurfs/)
 
 ![Smash Up Factions](smashup.jpg)
