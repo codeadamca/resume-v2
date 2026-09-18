@@ -6,4 +6,4 @@ Make some changes...
 
 ## About Me
 
-My name is **Adam**. I teach code.
+My name is **Adam**. I teach <em>code</em>.
