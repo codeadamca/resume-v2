@@ -13,3 +13,9 @@ Adding some content...
 [My LinkedIn Profile](https://www.linkedin.com/in/adambenjaminthomas/)
 
 <a href="https://www.linkedin.com/in/adambenjaminthomas/">My LinkedIn Profile</a>
+
+## Projects
+
+![Smurf Insult Generator](smurfinsults.png)
+
+![Smash Up Factions](smashup.jpg)
