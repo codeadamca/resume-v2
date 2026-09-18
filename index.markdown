@@ -14,6 +14,10 @@ This text is **bold**. This text is *italics*. This is both ___bold and italics_
 
 ## Projects
 
+![Smurf Insults](smurfinsults.png)
+
+CMD + SHIFT + V to preview markdown in VSCode.
+
 ## Contact Me
 
 [Visit me on LinkedIn](https://www.linkedin.com/in/adambenjaminthomas/)
